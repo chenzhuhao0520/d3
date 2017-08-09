@@ -1,1 +1,1 @@
-# d3 store cities url data
+# d3 cities url data
